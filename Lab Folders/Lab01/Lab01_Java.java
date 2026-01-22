@@ -4,9 +4,9 @@ void testMethod1()
   {
   //First command x = y + z
   //Second commnad print(x)
+  //Edit is made by AO Rana
 
-
-  //Last line print('Good bye')
+  //Last line print('Fuck Off')
 }
 
 void testMethod2()
@@ -21,3 +21,4 @@ void main()
     testMethod1();
     testMethod2();
 }
+
